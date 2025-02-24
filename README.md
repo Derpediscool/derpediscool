@@ -9,10 +9,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 - 🎯 My goal is to continuously improve and expand my skill set.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, Python, Java, C++, Go
-- **Frameworks:** React, Node.js, Django, Spring Boot
-- **Tools:** Git, Docker, Kubernetes, Jenkins, Travis CI
-- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
+- **Languages:** JavaScript, Python, Typescript
+- **Frameworks:** React, Vue
+- **Tools:** Git, Docker
+- **Databases:** MySQL, PostgreSQL
 
 ## 📈 GitHub Stats
 ![Derpediscool's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derpediscool&show_icons=true&theme=radical)
