@@ -19,11 +19,4 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Derpediscool&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
-- **Email:** [derpediscool@example.com](mailto:derpediscool@example.com)
-- **LinkedIn:** [linkedin.com/in/derpediscool](https://www.linkedin.com/in/derpediscool)
-- **Twitter:** [@derpediscool](https://twitter.com/derpediscool)
-
-## 🤝 Let's Collaborate
-I'm always open to collaborating on interesting projects and ideas. Feel free to reach out to me if you have any suggestions or opportunities!
-
-Thank you for visiting my profile! 😊
+- **Email:** [derped@mnpl.fyi](mailto:derped@mnpl.fyi)
