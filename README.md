@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 📈 GitHub Stats
 ![Derpediscool's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derpediscool&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Derpediscool&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 - **Email:** [derped@mnpl.fyi](mailto:derped@mnpl.fyi)
