@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for creatin
 
 ## 🛠️ Technologies & Tools
 - **Languages:** JavaScript, Python, Typescript
-- **Frameworks:** React, Vue
-- **Tools:** Git, Docker
-- **Databases:** MySQL, PostgreSQL
+- **Frameworks:** React, Nextjs
+- **Tools:** Git, Docker, Coolify
+- **Databases:** MySQL, PostgreSQL Turso/Sqlite
 
 ## 📈 GitHub Stats
 ![Derpediscool's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derpediscool&show_icons=true&theme=radical)
